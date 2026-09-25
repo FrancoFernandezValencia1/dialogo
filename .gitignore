@@ -1,0 +1,10 @@
+# Ocultar conexion real
+admin/conexion.php
+includes/conexion.php
+conexion.php
+.env
+
+# Archivos basura del sistema
+.vscode/
+.DS_Store
+Thumbs.db
